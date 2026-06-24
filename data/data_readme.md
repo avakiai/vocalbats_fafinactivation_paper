@@ -1,4 +1,4 @@
-Please download unzipped data from Zenodo into this folder such that the
+Please download zipped data from Zenodo into this folder such that the
 folder structure becomes:
 data/
 	neural_data/
