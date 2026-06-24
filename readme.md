@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7669934.svg)](https://doi.org/10.5281/zenodo.20833902)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20833902.svg)](https://doi.org/10.5281/zenodo.20833902)
 
 
 ## Frontal cortical activity specifically regulates social vocal behavior in echolocating bats
